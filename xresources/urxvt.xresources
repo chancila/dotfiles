@@ -1,6 +1,9 @@
 URxvt*termName: rxvt-256color
 URxvt*xftAntialias: true
 URxvt*font: xft:SauceCodePro Nerd Font Mono:style=Regular:size=10
+
+URxvt.scrollBar: false
+
 URxvt*background: #3f3f3f
 URxvt*foreground: #dcdccc
 URxvt*cursorColor: #aaaaaa
